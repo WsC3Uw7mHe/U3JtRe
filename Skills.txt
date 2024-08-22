@@ -1,0 +1,504 @@
+Fighting Styles:
+Fighting Style: Pierre Kick
+FinalStunDuration: 1.25
+FinalDamage: 25
+
+Fighting Style: Ron Kick
+StunDuration: 0.75
+Damage: 40
+
+Fighting Style: Triple Kick
+StunDuration: 0.5
+Damage: 2
+
+Fighting Style: Lokhens
+StunDuration: 1.4
+FinalStunDuration: 0.6
+Damage: 11
+FinalDamage: 7
+Time Delay:
+ - 0.22
+
+Fighting Style: Kunai
+StunDuration: 1.1
+FinalStunDuration: 0.6
+Damage: 6
+FinalDamage: 9
+Time Delay:
+ - 0.16
+
+Fighting Style: Reequal Beatdown
+StunDuration: 0.5
+Damage: 5
+
+Fighting Style: Rimuru
+StunDuration: 1.2
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 7
+
+Fighting Style: Liverblow
+StunDuration: 1
+Damage: 15
+
+Fighting Style: Buddha
+StunDuration: 1.15
+FinalStunDuration: 0.6
+Damage: 10
+FinalDamage: 10
+Time Delay:
+ - 0.22
+
+Fighting Style: Saitama
+StunDuration: 1
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 9
+Time Delay:
+ - 0.19
+
+Fighting Style: Dryleaf
+StunDuration: 2
+Damage: 43
+
+Fighting Style: Downward Elbow
+StunDuration: 0.5
+Damage: 10
+
+Fighting Style: Kurokawa Skill
+StunDuration: 1.5
+Damage: 20
+
+Fighting Style: Triple Kick Final
+StunDuration: 2.6
+Damage: 15
+
+Fighting Style: Getsuga Tenshou Final
+StunDuration: 0.25
+Damage: 30
+
+Fighting Style: Scythe
+StunDuration: 1.2
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 7
+Time Delay:
+ - 0.18
+
+Fighting Style: Copy2
+
+Fighting Style: War Fan
+StunDuration: 1.35
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 10
+Time Delay:
+ - 0.21
+
+Fighting Style: Drunken Fist
+StunDuration: 1
+FinalStunDuration: 0.6
+Damage: 9
+FinalDamage: 10
+Time Delay:
+ - 0.09
+
+Fighting Style: Judgement Cut Finisher
+StunDuration: 2.5
+Damage: 20
+
+Fighting Style: Kung Fu Skill Final
+StunDuration: 1
+Damage: 15
+
+Fighting Style: Tiger Drop
+FinalStunDuration: 0.6
+FinalDamage: 30
+
+Fighting Style: Combo Kicks
+StunDuration: 0.75
+Damage: 30
+
+Fighting Style: Boxing
+StunDuration: 1.1
+FinalStunDuration: 0.6
+Damage: 7
+FinalDamage: 15
+Time Delay:
+ - 0.09
+
+Fighting Style: Judgement Cut
+StunDuration: 0.5
+Damage: 3
+
+Fighting Style: Ape
+StunDuration: 1.1
+FinalStunDuration: 0.6
+Damage: 6
+FinalDamage: 9
+Time Delay:
+ - 0.16
+
+Fighting Style: Shin Hakai
+StunDuration: 0.6
+Damage: 15
+
+Fighting Style: Wild Instinct
+StunDuration: 1.1
+FinalStunDuration: 0.6
+Damage: 9
+FinalDamage: 13
+Time Delay:
+ - 0.21
+
+Fighting Style: Kickboxing
+StunDuration: 1.1
+FinalStunDuration: 0.6
+Damage: 10
+FinalDamage: 13
+Time Delay:
+ - 0.21
+
+Fighting Style: Kure
+StunDuration: 0.95
+FinalStunDuration: 0.6
+Damage: 5
+FinalDamage: 8
+Time Delay:
+ - 0.11
+
+Fighting Style: Kawaragi Skill
+FinalStunDuration: 0.2
+FinalDamage: 25
+
+Fighting Style: White Fang
+StunDuration: 0.5
+Damage: 10
+
+Fighting Style: Getsuga Tenshou
+StunDuration: 0.15
+Damage: 5
+
+Fighting Style: Default
+StunDuration: 1.05
+FinalStunDuration: 0.6
+Damage: 5
+FinalDamage: 10
+Time Delay:
+ - 0.16
+
+Fighting Style: Low Blow
+StunDuration: 2
+Damage: 20
+
+Fighting Style: Side Sweep
+FinalStunDuration: 0.2
+FinalDamage: 20
+
+Fighting Style: Knee Thrust
+StunDuration: 0.75
+Damage: 40
+
+Fighting Style: Suplex
+StunDuration: 2.5
+Damage: 30
+
+Fighting Style: Terano Skill Final
+StunDuration: 0.5
+Damage: 10
+
+Fighting Style: Piercing Knee
+FinalStunDuration: 0.2
+FinalDamage: 18
+
+Fighting Style: Inverted Spear of Heaven
+StunDuration: 1.5
+Damage: 2
+
+Fighting Style: Grappler Assault Final
+StunDuration: 0.2
+Damage: 7
+
+Fighting Style: Kung Fu
+StunDuration: 1.1
+FinalStunDuration: 0.6
+Damage: 6
+FinalDamage: 9
+Time Delay:
+ - 0.16
+
+Fighting Style: Ruya
+StunDuration: 1.1
+FinalStunDuration: 0.6
+Damage: 6
+FinalDamage: 9
+Time Delay:
+ - 0.16
+
+Fighting Style: Vergil
+StunDuration: 1.55
+FinalStunDuration: 0.6
+Damage: 11
+FinalDamage: 7
+Time Delay:
+ - 0.22
+
+Fighting Style: Hard Punch
+StunDuration: 0.6
+Damage: 15
+
+Fighting Style: Axe Kick
+StunDuration: 2.75
+Damage: 40
+
+Fighting Style: Terano Skill
+StunDuration: 0.6
+Damage: 25
+
+Fighting Style: Opp Exterminator
+StunDuration: 3
+Damage: 45
+
+Fighting Style: Infinite Block
+
+Fighting Style: Overhead Kick
+StunDuration: 0.6
+Damage: 25
+
+Fighting Style: Wrestling
+StunDuration: 1.15
+FinalStunDuration: 0.6
+Damage: 10
+FinalDamage: 15
+Time Delay:
+ - 0.22
+
+Fighting Style: KenNoJutsu
+StunDuration: 1.15
+FinalStunDuration: 0.6
+Damage: 10
+FinalDamage: 10
+Time Delay:
+ - 0.21
+
+Fighting Style: Saints Kick
+StunDuration: 0.75
+Damage: 40
+
+Fighting Style: Sake Counter
+StunDuration: 1.5
+Damage: 30
+
+Fighting Style: Sandevistan
+
+Fighting Style: Party Table
+StunDuration: 0.5
+Damage: 1
+
+Fighting Style: Renewal Kicks Final
+StunDuration: 1
+Damage: 15
+
+Fighting Style: Sync
+StunDuration: 1.1
+FinalStunDuration: 0.6
+Damage: 6
+FinalDamage: 9
+Time Delay:
+ - 0.16
+
+Fighting Style: Rising Fist
+FinalStunDuration: 0.2
+FinalDamage: 20
+
+Fighting Style: 360 Kick
+StunDuration: 1
+Damage: 6
+
+Fighting Style: Systema Combo
+StunDuration: 0.5
+Damage: 1
+
+Fighting Style: Spinning Kick
+StunDuration: 2
+Damage: 15
+
+Fighting Style: Systema Combo Final
+StunDuration: 2.6
+Damage: 10
+
+Fighting Style: Brazillian Kick
+FinalStunDuration: 0.2
+FinalDamage: 15
+
+Fighting Style: Flying Knee
+FinalStunDuration: 0.2
+FinalDamage: 30
+
+Fighting Style: Scar
+StunDuration: 1.15
+FinalStunDuration: 0.6
+Damage: 10
+FinalDamage: 15
+Time Delay:
+ - 0.22
+
+Fighting Style: Shiba Grab
+StunDuration: 3
+Damage: 35
+
+Fighting Style: Taekwondo
+StunDuration: 0.85
+FinalStunDuration: 0.6
+Damage: 9
+FinalDamage: 7
+Time Delay:
+ - 0.18
+
+Fighting Style: Yukusakatami
+FinalStunDuration: 0.2
+FinalDamage: 25
+
+Fighting Style: Capoeira
+StunDuration: 1
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 9
+Time Delay:
+ - 0.19
+
+Fighting Style: Renewal Kicks
+StunDuration: 0.5
+Damage: 10
+
+Fighting Style: Toji
+StunDuration: 1
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 5
+Time Delay:
+ - 0.09
+
+Fighting Style: DTSSS Final
+StunDuration: 2.25
+Damage: 25
+
+Fighting Style: Copy1
+
+Fighting Style: Bat
+StunDuration: 1.2
+FinalStunDuration: 0.6
+Damage: 12
+FinalDamage: 7
+Time Delay:
+ - 0.23
+
+Fighting Style: Front Slam
+StunDuration: 2
+Damage: 30
+
+Fighting Style: JeetKuneDo
+StunDuration: 1
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 9
+Time Delay:
+ - 0.19
+
+Fighting Style: Saints Slam
+StunDuration: 2
+Damage: 30
+
+Fighting Style: Cid
+StunDuration: 1.2
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 7
+Time Delay:
+ - 0.18
+
+Fighting Style: Karate
+StunDuration: 1
+FinalStunDuration: 0.6
+Damage: 7
+FinalDamage: 9
+Time Delay:
+ - 0.17
+
+Fighting Style: Kizaru
+StunDuration: 1.2
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 7
+Time Delay:
+ - 0.18
+
+Fighting Style: Party Table Final
+StunDuration: 2.6
+Damage: 10
+
+Fighting Style: Jab Rush Final
+StunDuration: 1
+Damage: 12
+
+Fighting Style: Muay Thai
+StunDuration: 0.95
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 6
+Time Delay:
+ - 0.15
+
+Fighting Style: Jab Rush
+StunDuration: 0.5
+Damage: 8
+
+Fighting Style: DTSSS
+StunDuration: 1.25
+Damage: 10
+
+Fighting Style: White Fang Final
+StunDuration: 1
+Damage: 10
+
+Fighting Style: Gazelle Punch
+StunDuration: 1.5
+Damage: 20
+
+Fighting Style: m2
+StunDuration: 2.75
+Damage: 10
+
+Fighting Style: Luca
+StunDuration: 1.4
+FinalStunDuration: 0.6
+Damage: 11
+FinalDamage: 7
+Time Delay:
+ - 0.22
+
+Fighting Style: Grappler Assault
+StunDuration: 0.1
+Damage: 3
+
+Fighting Style: Side Kick
+FinalStunDuration: 0.2
+FinalDamage: 10
+
+Fighting Style: Foresight
+
+Fighting Style: Gojo
+StunDuration: 1
+FinalStunDuration: 0.6
+Damage: 8
+FinalDamage: 11
+Time Delay:
+ - 0.19
+
+Fighting Style: Systema
+StunDuration: 0.9
+FinalStunDuration: 0.6
+Damage: 6
+FinalDamage: 7
+Time Delay:
+ - 0.16
