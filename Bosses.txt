@@ -8,6 +8,20 @@ Black Dragons Uniform (5%)
 Black Dragons Captain (3%)
 Black Dragons Leader (1%)
 Yen 1250
+Clan Spins
+Customization Tokens
+Skill Rerolls
+Izana Earrings
+Tenjiku Uniform
+Tenjiku Leader Uniform
+Haitani Outfit
+Brahman Leader Uniform
+Mikey Uniform
+Rokuhara Haitani Outfit
+OG Black Dragons Uniform
+Shinichiro Outfit
+Rokuhara Tandai Outfit
+Valhalla Uniform
 
 
 Name Manjiro Sano
@@ -19,6 +33,20 @@ Mikey Face (5%)
 Toman Uniform (5%)
 Toman Uniform (Obi) (1%)
 Yen 1250
+Clan Spins
+Customization Tokens
+Skill Rerolls
+Izana Earrings
+Tenjiku Uniform
+Tenjiku Leader Uniform
+Haitani Outfit
+Brahman Leader Uniform
+Mikey Uniform
+Rokuhara Haitani Outfit
+OG Black Dragons Uniform
+Shinichiro Outfit
+Rokuhara Tandai Outfit
+Valhalla Uniform
 
 Name Delinquent
 Stats:
