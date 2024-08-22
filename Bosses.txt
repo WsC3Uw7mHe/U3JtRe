@@ -1,12 +1,28 @@
 Name Taiju Shiba
+Stats:
+Health 7500
+Style Wrestling
 Drops:
 Taiju Face (5%)
 Black Dragons Uniform (5%)
 Black Dragons Captain (3%)
 Black Dragons Leader (1%)
+Yen 1250
+
 
 Name Manjiro Sano
+Stats:
+Health 7500
+Style Taekwondo
 Drops:
 Mikey Face (5%)
 Toman Uniform (5%)
 Toman Uniform (Obi) (1%)
+Yen 1250
+
+Name Delinquent
+Stats:
+Health 250
+Style Default
+Drops:
+Yen 30
