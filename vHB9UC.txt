@@ -93,9 +93,13 @@ DurabilityBoost: 1.2
 
 Clan: Aether
 Other:
+   1: - Passive: Longer Dashes
+   2: - Passive: Longer Stun
+   3: - Passive: x3 Damage against Blocks
+   4: - Passive: Less Dash Cooldown
+   5: - These last knonw clan bufs for aether
 StrikePowerBoost: 1.9
 DurabilityBoost: 1.4
-
 Clan: Zoldyck
 Other:
 StrikePowerBoost: 1.8
