@@ -59,6 +59,17 @@ DurabilityBoost: 1.5
 SpeedBoost: 1.3
 StaminaBoost: 1.4
 
+Clan: Lee
+Other:
+   1: - Passive: Instant Grip
+   2: - Passive: Every m2 Regenerates 40 HP
+   3: - Passive: Longer Dashes
+   4: - Passive: Lower Dash Cooldown
+StrikePowerBoost: 1.4
+DurabilityBoost: 1.3
+SpeedBoost: 1.1
+StaminaBoost: 1.2
+
 Clan: ???
 Other:
    1: - Passive: x2 Health Regen <50% Health
@@ -99,12 +110,12 @@ DurabilityBoost: 1.5
 SpeedBoost: 1.2
 StaminaBoost: 1.4
 
-Clan: Kure
+Clan: Zzz
 Other:
-   1: - Passive: Longer Dashes
-   2: - Passive: x1.2 Speed Boost <30% Hp
+   1: - Passive: x3 Damage against Blocks
+   2: - Passive: Longer Dashes
 StrikePowerBoost: 1.8
-DurabilityBoost: 1.2
+DurabilityBoost: 1.6
 
 Clan: Sato
 StrikePowerBoost: 1.5
@@ -120,6 +131,12 @@ Other:
    1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
+
+Clan: Inazuma
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.2
 
 Clan: Shingën
 Other:
@@ -248,6 +265,7 @@ StaminaBoost: 1.5
 Clan: Sendo
 Other:
    1: - Uncommon Clans do not have Perks
+
 Clan: Midoriya
 Other:
    1: - Passive: Instant Grip
@@ -442,12 +460,6 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.6
 
-Clan: Sano
-Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.2
-
 Clan: Kang
 Other:
    1: - Passive: x2 Stamina Regen <50% Hp
@@ -455,6 +467,18 @@ Other:
 StrikePowerBoost: 1.4
 DurabilityBoost: 1.5
 StaminaBoost: 1.4
+
+Clan: Sano
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.2
+
+Clan: Shinomiya
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.7
+DurabilityBoost: 1.5
 
 Clan: Uchiha
 Other:
@@ -469,11 +493,9 @@ Other:
    2: - Passive: x2 Damage against Blocks
 StrikePowerBoost: 0.9
 
-Clan: Shinomiya
-Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.7
-DurabilityBoost: 1.5
+Clan: Kusakabe
+StrikePowerBoost: 1.4
+SpeedBoost: 1.5
 
 Clan: Bakugo
 Other:
@@ -488,11 +510,13 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.2
 
-Clan: Kusakabe
-StrikePowerBoost: 1.4
-SpeedBoost: 1.5
-
 Clan: Saemonsaburo
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.3
+
+Clan: Windsor
 Other:
    1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
@@ -529,22 +553,10 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
 
-Clan: Windsor
-Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.3
-
 Clan: Tempest
 Other:
    1: - Passive: x2 Stamina Regen <50% Hp
    2: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.3
-
-Clan: Ashborn
-Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
 
@@ -555,12 +567,24 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.6
 
+Clan: Ashborn
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.3
+
 Clan: 5v
 Other:
    1: - Passive: Longer Stun
    2: - Passive: Every m2 Regenerates 40 HP
 StrikePowerBoost: 2
 DurabilityBoost: 1.6
+
+Clan: Mori
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.2
 
 Clan: Sakurajima
 Other:
@@ -570,13 +594,6 @@ StrikePowerBoost: 1.4
 DurabilityBoost: 1.5
 SpeedBoost: 1.8
 StaminaBoost: 1.4
-
-Clan: Spirit
-Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.5
-SpeedBoost: 1.2
 
 Clan: Vokrium
 Other:
@@ -590,13 +607,21 @@ StrikePowerBoost: 1.3
 DurabilityBoost: 1.4
 SpeedBoost: 1.5
 
+Clan: Spirit
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.5
+SpeedBoost: 1.2
+
 Clan: Satōu
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.6
 
-Clan: Mori
+Clan: Kure
 Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+   1: - Passive: Longer Dashes
+   2: - Passive: x1.2 Speed Boost <30% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.2
 
@@ -654,7 +679,7 @@ DurabilityBoost: 1.6
 
 Clan: Majin
 Other:
-   1: - Passive: Becomes x2 Strike PowerBoost >75% Hp
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
 
@@ -708,7 +733,7 @@ DurabilityBoost: 1.4
 
 Clan: Azu
 Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+   1: - Passive: Becomes x2Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
 
