@@ -42,14 +42,6 @@ DurabilityBoost: 3
 SpeedBoost: 1.5
 StaminaBoost: 1.2
 
-Clan: Vergil
-Other:
-   1: - Passive: x2 Stamina Regen <50% Hp
-   2: - Passive: Final m1 Blockbreaks >75% Hp
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.6
-SpeedBoost: 1.4
-
 Clan: Park
 Other:
    1: - Skill Name: Copy (Other)
@@ -78,9 +70,10 @@ DurabilityBoost: 1.8
 
 Clan: Kazama
 Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+   1: - Passive: Every m2 Regenerates 30 Stamina
+   2: - Passive: x3 Damage against Blocks
 StrikePowerBoost: 1.8
-DurabilityBoost: 1.2
+DurabilityBoost: 1.6
 
 Clan: Mitsuya
 StrikePowerBoost: 1.2
@@ -114,8 +107,9 @@ Clan: Zzz
 Other:
    1: - Passive: x3 Damage against Blocks
    2: - Passive: Longer Dashes
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.6
+StrikePowerBoost: 0.16
+DurabilityBoost: 0.29
+StaminaBoost: 3
 
 Clan: Sato
 StrikePowerBoost: 1.5
@@ -176,8 +170,22 @@ DurabilityBoost: 1.6
 
 Clan: Hoshinō
 Other:
-StrikePowerBoost: 1.7
-DurabilityBoost: 1.8
+StrikePowerBoost: 2
+DurabilityBoost: 2
+
+Clan: Salvatore
+Other:
+   1: - Longer Perfect Block Window
+   2: - Passive: Final m1 Regenerates 30 Stamina
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.6
+
+Clan: Salva
+Other:
+   1: - Passive: Longer Dashes
+   2: - Passive: x3 Damage against Blocks
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.6
 
 Clan: Ryuga
 Other:
@@ -190,6 +198,13 @@ Other:
    1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.2
+
+Clan: Villain
+Other:
+   1: - Passive: Every m2 Regenerates 40 HP
+   2: - Passive: Longer Dashes
+StrikePowerBoost: 1.7
+DurabilityBoost: 1.7
 
 Clan: Osanai
 StrikePowerBoost: 1.3
@@ -344,6 +359,13 @@ DurabilityBoost: 1.6
 SpeedBoost: 1.4
 StaminaBoost: 1.1
 
+Clan: Yōtsuki
+Other:
+   1: - Passive: Every m2 Regenerates 40 HP
+   2: - Passive: x3 Damage against Blocks
+StrikePowerBoost: 2
+DurabilityBoost: 1.7
+
 Clan: Arashi
 DurabilityBoost: 1.2
 
@@ -377,6 +399,12 @@ DurabilityBoost: 1.2
 
 Clan: Kokonoi
 YenBoost: 1.3
+
+Clan: Kapo
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.2
 
 Clan: Akashi
 StrikePowerBoost: 1.1
@@ -468,17 +496,21 @@ StrikePowerBoost: 1.4
 DurabilityBoost: 1.5
 StaminaBoost: 1.4
 
+Clan: Shinomiya
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.7
+DurabilityBoost: 1.5
+
 Clan: Sano
 Other:
    1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.2
 
-Clan: Shinomiya
-Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.7
-DurabilityBoost: 1.5
+Clan: Kusakabe
+StrikePowerBoost: 1.4
+SpeedBoost: 1.5
 
 Clan: Uchiha
 Other:
@@ -493,9 +525,11 @@ Other:
    2: - Passive: x2 Damage against Blocks
 StrikePowerBoost: 0.9
 
-Clan: Kusakabe
-StrikePowerBoost: 1.4
-SpeedBoost: 1.5
+Clan: Saemonsaburo
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.3
 
 Clan: Bakugo
 Other:
@@ -510,26 +544,28 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.2
 
-Clan: Saemonsaburo
+Clan: Tempest
 Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+   1: - Passive: x2 Stamina Regen <50% Hp
+   2: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
+
+Clan: Chaos
+Other:
+   1: - Passive: Longer Dashes
+   2: - Passive: Every m2 Regenerates 65 HP
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.6
+
+Clan: Baji
+StrikePowerBoost: 1.2
 
 Clan: Windsor
 Other:
    1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
-
-Clan: Baji
-StrikePowerBoost: 1.2
-
-Clan: Yato
-Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.2
 
 Clan: Kin
 Other:
@@ -553,18 +589,18 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
 
-Clan: Tempest
-Other:
-   1: - Passive: x2 Stamina Regen <50% Hp
-   2: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.3
-
 Clan: Sêrein
 Other:
    1: - Passive: Longer Dashes
    2: - Passive: Every m2 Regenerates 40 HP
 StrikePowerBoost: 1.8
+DurabilityBoost: 1.6
+
+Clan: 5v
+Other:
+   1: - Passive: Longer Stun
+   2: - Passive: Every m2 Regenerates 40 HP
+StrikePowerBoost: 2
 DurabilityBoost: 1.6
 
 Clan: Ashborn
@@ -573,11 +609,11 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
 
-Clan: 5v
+Clan: Jinchuken
 Other:
-   1: - Passive: Longer Stun
+   1: - Passive: Instant Grip
    2: - Passive: Every m2 Regenerates 40 HP
-StrikePowerBoost: 2
+StrikePowerBoost: 1.8
 DurabilityBoost: 1.6
 
 Clan: Mori
@@ -595,12 +631,12 @@ DurabilityBoost: 1.5
 SpeedBoost: 1.8
 StaminaBoost: 1.4
 
-Clan: Vokrium
+Clan: Hashibira
 Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
-   2: - Passive: Longer Dashes
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.6
+   1: - Passive: Final m1 Regenerates 15 Hp
+   2: - Passive: Block Break Stun lasts Longer
+StrikePowerBoost: 2
+DurabilityBoost: 1.4
 
 Clan: Sosuke
 StrikePowerBoost: 1.3
@@ -630,7 +666,7 @@ Other:
    1: - Skill Name: Copy (Other)
    2: - Obtained via Skill Spinning
 StrikePowerBoost: 1.4
-DurabilityBoost: 1.5
+StaminaBoost: 1.3
 
 Clan: Heiwajima
 Other:
@@ -687,18 +723,17 @@ Clan: Tenshi
 Other:
 StrikePowerBoost: 2
 
+Clan: Mikazuchi
+Other:
+   1: - Passive: x2 Stamina Regen <50% Hp
+   2: - Passive: Every m2 Regenerates 40 HP
+StrikePowerBoost: 2
+DurabilityBoost: 1.6
+
 Clan: Kawata
 Other:
    1: - x1.5 Boost on Angry Mode (Future)
 StrikePowerBoost: 1.2
-
-Clan: Kawaragi
-Other:
-   1: - Skill Name: Kawaragi Skill (Finisher)
-   2: - Obtained via Skill Spinning
-StrikePowerBoost: 1.3
-DurabilityBoost: 1.4
-SpeedBoost: 1.4
 
 Clan: Mochizuki
 DurabilityBoost: 1.2
@@ -711,12 +746,11 @@ StrikePowerBoost: 1.5
 DurabilityBoost: 1.5
 StaminaBoost: 1.2
 
-Clan: Chaos
+Clan: Freakster
 Other:
-   1: - Passive: Longer Dashes
-   2: - Passive: Every m2 Regenerates 65 HP
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
-DurabilityBoost: 1.6
+DurabilityBoost: 1.2
 
 Clan: Tate
 Other:
@@ -724,18 +758,24 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
 
-Clan: Hashibira
+Clan: Yato
 Other:
-   1: - Passive: Final m1 Regenerates 15 Hp
-   2: - Passive: Block Break Stun lasts Longer
-StrikePowerBoost: 2
-DurabilityBoost: 1.4
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.2
 
 Clan: Azu
 Other:
-   1: - Passive: Becomes x2Strike Power Boost >75% Hp
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.3
+
+Clan: Vokrium
+Other:
+   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
+   2: - Passive: Longer Dashes
+StrikePowerBoost: 1.8
+DurabilityBoost: 1.6
 
 Clan: Leé
 Other:
@@ -750,12 +790,6 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.6
 
-Clan: Freakster
-Other:
-   1: - Passive: Becomes x2 Strike Power Boost >75% Hp
-StrikePowerBoost: 1.8
-DurabilityBoost: 1.2
-
 Clan: Raijin
 Other:
    1: - Passive: Every m2 Regenerates 40 HP
@@ -763,14 +797,13 @@ Other:
 StrikePowerBoost: 1.8
 DurabilityBoost: 1.6
 
-Clan: Grant
+Clan: Kawaragi
 Other:
-   1: - Skill Name: Copy (Other)
+   1: - Skill Name: Kawaragi Skill (Finisher)
    2: - Obtained via Skill Spinning
-StrikePowerBoost: 1.6
-DurabilityBoost: 1.5
-SpeedBoost: 1.3
-StaminaBoost: 1.4
+StrikePowerBoost: 1.3
+DurabilityBoost: 1.4
+SpeedBoost: 1.4
 
 Clan: Terano
 Other:
